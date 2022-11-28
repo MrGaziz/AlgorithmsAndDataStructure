@@ -1,0 +1,8 @@
+
+X
+java:S2259"BA "NullPointerException" could be thrown; "prev" is nullable here.(ª²“‰
+S
+java:S2589"8Remove this expression which always evaluates to "false"(ð¼»Œùÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ì›ëøùÿÿÿÿ8‰¶áŒ¼0
+<
+java:S1659"!Declare "row" on a separate line.(°…Â‘ÿÿÿÿÿ
